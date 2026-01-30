@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162963359911",
+    "firebase_url": "https://ojt-tracking-app-project-default-rtdb.firebaseio.com",
+    "project_id": "ojt-tracking-app-project",
+    "storage_bucket": "ojt-tracking-app-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162963359911:android:6977ef710229fb27dfb382",
+        "android_client_info": {
+          "package_name": "com.example.ojt_tracking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162963359911-n39gf0f1tebavf4446i9cl2evdo9aoih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjMRLxE3yPqTVAHsE5UFe2MQETDro217U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162963359911-n39gf0f1tebavf4446i9cl2evdo9aoih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162963359911-qabpvh7uvuh0nk86saralli8bb7ichap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ojtTrackingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

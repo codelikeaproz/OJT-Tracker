@@ -1,0 +1,40 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ojt-tracking-app-project",
+          "appId": "1:162963359911:android:6977ef710229fb27dfb382",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ojt-tracking-app-project",
+          "configurations": {
+            "android": "1:162963359911:android:6977ef710229fb27dfb382",
+            "ios": "1:162963359911:ios:52f13551208289a8dfb382",
+            "macos": "1:162963359911:ios:52f13551208289a8dfb382",
+            "web": "1:162963359911:web:d536df79301015f5dfb382",
+            "windows": "1:162963359911:web:2efe7c85a7a76777dfb382"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
